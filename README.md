@@ -39,5 +39,5 @@ I am a results-driven professional with a strong background in **Large Language 
 ---
 
 📫 **How to reach me:**
-- **LinkedIn:** [Amadeo Gabriel Moyano Manchon](https://www.linkedin.com/in/amadeo-gabriel-moyano-manchon-228892261/)
+- **LinkedIn:** [Amadeo Gabriel Moyano Manchon](https://www.linkedin.com/in/amadeo-g-moyano-m-228899261/)
 - **Email:** amadeogabrielmm@gmail.com
