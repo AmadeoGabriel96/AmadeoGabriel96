@@ -6,7 +6,7 @@ I am a results-driven professional with a strong background in **Large Language 
 ---
 
 ### 🚀 Professional Highlights
-- **AI Training Expert:** Over 1 year of experience in **RLHF** (Reinforcement Learning from Human Feedback), specializing in Truthfulness and Instruction Following.
+- **AI Training Specialist:** Over 1 year of experience in **RLHF** (Reinforcement Learning from Human Feedback), specializing in Truthfulness and Instruction Following.
 - **10/10 Python Certified:** Achieved a perfect score in my Python Full Stack specialization.
 - **Full Stack Foundation:** Proficient in **Java (Spring Boot)** and **Python (Django)** for robust backend development.
 
