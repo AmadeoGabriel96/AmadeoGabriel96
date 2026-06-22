@@ -16,8 +16,8 @@ I am a results-driven professional with a strong background in **Large Language 
 | Language | Proficiency |
 | :--- | :--- |
 | **Spanish** | Native |
-| **French** | Bilingual / C2 (Bachelor's in progress) |
-| **English** | Fluent / C1 |
+| **French** | Bilingual (Bachelor's in progress) |
+| **English** | Fluent |
 | **Portuguese** | Advanced |
 | **Italian** | Conversational |
 
